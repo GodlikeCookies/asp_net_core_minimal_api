@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0KjpCSJWHyrhk2hmD80QYEG3L23L5jcKRbr0YtiM/f4=",
+  "Source": "DigitalHub.WebAPI",
+  "BasePath": "_content/DigitalHub.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

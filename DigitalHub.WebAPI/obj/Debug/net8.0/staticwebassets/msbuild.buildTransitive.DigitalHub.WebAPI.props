@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DigitalHub.WebAPI.props" />
+</Project>
